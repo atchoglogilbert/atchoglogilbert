@@ -1,4 +1,4 @@
-# Hello, I'm Gilbert.
+# Hi, I'm Gilbert.
 
 - 🔭 I’m currently working on becoming the best programmer in the cosmos and ft_irc as well;
 - 🌱 I’m currently learning C++ and Python;
