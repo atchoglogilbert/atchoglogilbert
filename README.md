@@ -3,4 +3,5 @@
 - 🔭 I’m currently working on becoming the best programmer in the universe and ft_irc as well;
 - 🌱 I’m currently learning C++ and Python;
 - 🖥️ I'm interested in operating systems, system administration, data architecture and artificial intelligence;
-- ✈️ I like travelling, music, reading, cars and being active.
+
+Hobbies: ✈️ ♫ 🎸📖 🏎️ 🏄🏽‍♂️ 🏋️
