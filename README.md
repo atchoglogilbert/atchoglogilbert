@@ -1,4 +1,4 @@
-### Student at 42 Heilbronn.
+### Bienvenu dans mon monde.
 
 - 🔭 I’m currently working on becoming the best programmer in the universe and also ft_irc.
 - 🌱 I’m currently learning C++ and Python
