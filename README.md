@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on becoming the best programmer in the universe and also ft_irc;
 - 🌱 I’m currently learning C++ and Python;
-- ✈️ I'm interested in travelling, reading, music and learning all languages, concepts and applications in computer programming.
+- ✈️ I'm interested in computer compramming, system administration and data architecture;
+- ✈️ I like travelling, music, reading and being active.
 
 <!--
 **atchoglogilbert/atchoglogilbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
