@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on becoming the best programmer in the universe and also ft_irc;
 - 🌱 I’m currently learning C++ and Python;
-- ✈️ I'm interested in travelling,reading, music and learning new languages, concepts and softwares in computer programming.
+- ✈️ I'm interested in travelling, reading, music and learning new languages, concepts and applications in computer programming.
 
 > Tout le monde savait que c'était impossible à faire; Puis un jour est venu un homme qui ne le savait pas. Et il l'a fait.
 
