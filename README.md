@@ -2,5 +2,5 @@
 
 - 🔭 I’m currently working on becoming the best programmer in the universe and also ft_irc;
 - 🌱 I’m currently learning C++ and Python;
-- 🖥️ I'm interested in operating systems, system administration and data architecture;
+- 🖥️ I'm interested in operating systems, system administration, data architecture and machine learning;
 - ✈️ I like travelling, music, reading, cars and being active.
