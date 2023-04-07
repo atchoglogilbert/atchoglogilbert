@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning C++ and Python;
 - 🖥️ I'm interested in operating systems, system administration, data architecture and artificial intelligence;
 
-Hobbies: ✈️ ♫ 🎸📖 🏎️ 🏄🏽‍♂️ 🏋️
+✈️ ♫ 🎸📖 🏎️ 🏄🏽‍♂️ 🏋️
