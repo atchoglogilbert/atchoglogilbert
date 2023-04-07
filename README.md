@@ -1,6 +1,6 @@
 # Hi, I'm Gilbert.
 
-- 🔭 I’m currently working on becoming the best programmer in the cosmos and ft_irc as well;
+- 🔭 I’m currently working on ft_irc;
 - 🌱 I’m currently learning C++ and Python;
 - 🖥️ I'm interested in operating systems, system administration, data architecture and artificial intelligence;
 
