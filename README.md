@@ -1,6 +1,6 @@
 # Hi, I'm Gilbert.
 
-- 🔭 I’m currently working on ft_irc and a maze solver;
+- 🔭 I’m currently working on ft_irc and maze-solver;
 - 🌱 I’m currently learning C++ and Python;
 - 🖥️ I'm interested in operating systems, system administration, data architecture and artificial intelligence;
 
