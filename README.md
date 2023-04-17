@@ -10,12 +10,14 @@
 
 ## Skills
 
-- Java
-- Python
-- JavaScript
-- HTML/CSS
+<h2>Programming Languages</h2>
 
-![Java](https://img.shields.io/badge/Java-Expert-blue)
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-orange)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Intermediate-orange)
+<h3>Java</h3>
+<div class="loader">
+  <div class="loader__inner loader__inner--java" data-progress="90"></div>
+</div>
+
+<h3>Python</h3>
+<div class="loader">
+  <div class="loader__inner loader__inner--python" data-progress="70"></div>
+</div>
