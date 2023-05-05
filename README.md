@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ft_irc and maze-solver;
 - 🌱 I’m currently learning NestJS, Angular, PostgreSQL and Python;
 - 🖥️ I'm interested in operating systems, web and mobile app development, cloud computing, engineering and artificial intelligence;
-- 🔨 I have experience in HTML, CSS, JS, JQuery, PHP, SQL, Android SDK, Java, C, C++, NestJS, Angular.
+- 🔨 I have experience in HTML, CSS, JS, JQuery, PHP, SQL, Android SDK, Java and C/C++.
 
 ✈️ ♫ 🎸📖 🏎️ 👨‍💻 🏄🏽‍♂️ 🏋️
 
