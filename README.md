@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on ft_irc and maze-solver;
 - 🌱 I’m currently learning C++ and Python;
-- 🖥️ I'm interested in operating systems, database and data architecture and artificial intelligence;
+- 🖥️ I'm interested in operating systems, web and mobile app development, cloud computing, engineering and artificial intelligence;
+- 🔨 I have experience in HTML, CSS, JS, JQuery, PHP, Android SDK, Java, C, C++, NestJS, Angular.
 
 ✈️ ♫ 🎸📖 🏎️ 👨‍💻 🏄🏽‍♂️ 🏋️
 
