@@ -1,7 +1,7 @@
 # Hi, I'm Gilbert.
 
 - 🖥️ I’m currently working on ft_transcendence and maze-solver;
-- 🌱 I’m currently learning NestJS + Angular + PostgreSQL and Flutter + Dart -> Python;
+- 🌱 I’m currently learning NestJS + Angular + PostgreSQL, Flutter + Dart -> Python;
 - 🔍 I'm interested in operating systems, web and mobile app development, cloud computing, engineering and artificial intelligence;
 - 🔨 I have experience in HTML, CSS, JS, JQuery, PHP, SQL, Android SDK, Java and C/C++.
 
